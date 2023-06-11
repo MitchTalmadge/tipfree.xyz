@@ -5,3 +5,5 @@ A collection of places to eat that don't ask for a tip.
 - McDonalds
 - Wendy's 
 
+## Washington
+- Optimism Brewing
