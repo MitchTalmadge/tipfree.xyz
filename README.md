@@ -1,2 +1,2 @@
 # tipfree.xyz
-A collection of tip-free places to eat
+A collection of places to eat that don't ask for a tip
