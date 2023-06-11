@@ -6,4 +6,4 @@ A collection of places to eat that don't ask for a tip.
 - Wendy's 
 
 ## Washington
-- Optimism Brewing
+- [Optimism Brewing Company](https://optimismbrewing.com/tip-free)
