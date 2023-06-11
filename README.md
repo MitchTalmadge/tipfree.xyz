@@ -5,6 +5,10 @@ A collection of places to eat that don't ask for a tip.
 - McDonalds
 - Wendy's 
 
+## California
+- [Zazie](https://www.zaziesf.com/philosophy.html)\
+  941 Cole St, San Francisco, CA 94117
+
 ## Utah
 - [VENETO Ristorante Italiano](https://archive.sltrib.com/article.php?id=4217848&itype=CMSID)\
   370 E 900 S, Salt Lake City, UT 84111
