@@ -15,5 +15,5 @@ A collection of places to eat that don't ask for a tip.
 
 ## Washington
 - [Optimism Brewing Company](https://optimismbrewing.com/) [(Source)](https://optimismbrewing.com/tip-free)\
-  [1158 Broadway, Seattle, WA 98122](https://goo.gl/maps/Xfh9LpchXFjrihRv7)
+  [1158 Broadway, Seattle, WA 98122](https://goo.gl/maps/Xfh9LpchXFjrihRv7) \
   Note: Becoming "Stoup Brewing" in August 2023. Will it remain tip-free? Unknown.
